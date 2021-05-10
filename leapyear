@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int year,a;
+    int year,a;//定义变量
     printf("请输人年份：\n");
     scanf("%d",&year);
     if(year%400==0)
